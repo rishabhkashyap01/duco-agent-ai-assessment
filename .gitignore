@@ -1,0 +1,19 @@
+node_modules/
+dist/
+.next/
+coverage/
+reports/
+*.tsbuildinfo
+
+# env files (commit only the examples)
+.env
+.env.*
+!.env.example
+
+*.log
+.DS_Store
+.idea/
+.vscode/
+
+# Vercel CLI
+.vercel
