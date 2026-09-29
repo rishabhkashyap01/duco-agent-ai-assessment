@@ -1,0 +1,13 @@
+/node_modules
+/.next/
+/out/
+*.tsbuildinfo
+next-env.d.ts
+
+# env files (commit only the example)
+.env*
+!.env.example
+
+# Written by `next dev` for AI coding agents; not project documentation
+AGENTS.md
+CLAUDE.md
